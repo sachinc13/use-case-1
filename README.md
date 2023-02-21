@@ -14,4 +14,5 @@ In use case 1,I have preformed below task.
 4)placing files to landing folders(refer function-move_to_landing() in use case1.py file)
 
 5) data cleaning and changing data type as per requirement performed(refer function-create_df() in use case1.py file)
+
 6)creating Athena tables via crawler(for standard report and summary report)(refer function-stand_create_crawler() and sum_create_crawler() in use case1.py file)
